@@ -278,3 +278,111 @@
     padding: 0 10px;
     font-size: 16px;
 }
+
+/* CODES FOR CHECKOUT.HTML */
+
+.breadcumb_area {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    height: 140px;
+}
+
+.breadcumb_area .page-title h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: "Ubuntu", sans-serif;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+}
+
+.section-padding-80 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.mt-50 {
+    margin-top: 50px !important;
+}
+
+.checkout_details_area form label {
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.checkout_details_area form label span {
+    color: #f9508c;
+}
+
+.checkout_details_area form .form-control {
+    height: 42px;
+    border: 1px solid #ebebeb;
+    background-color: transparent;
+    border-radius: 0;
+}
+
+.checkout_details_area form .form-control {
+    height: 42px;
+    border: 1px solid #ebebeb;
+    background-color: transparent;
+    border-radius: 0;
+}
+
+.checkout_details_area form .form-control {
+    height: 42px;
+    border: 1px solid #ebebeb;
+    background-color: transparent;
+    border-radius: 0;
+}
+
+.checkout_details_area form .nice-select {
+    border-radius: 0;
+    border: 1px solid #ebebeb;
+}
+.checkout_details_area form .nice-select .list {
+    width: 100%;
+    border-radius: 0;
+}
+
+.checkout_details_area form .form-control {
+    height: 42px;
+    border: 1px solid #ebebeb;
+    background-color: transparent;
+    border-radius: 0;
+}
+.order-details-confirmation {
+    width: 100%;
+    border: 2px solid #ebebeb;
+    padding: 40px;
+}
+
+.order-details-confirmation .card {
+    border: none;
+}
+
+.order-details-confirmation .card-header {
+    background-color: transparent;
+    border-bottom: none;
+}
+
+.order-details-confirmation .card-header h6 a {
+    display: block;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.order-details-confirmation .card-header h6 a i {
+    color: #9f9f9f;
+}
+
+.order-details-confirmation .card-body p {
+    font-size: 12px;
+    line-height: 2;
+    color: #9f9f9f;
+}
+
+
+
+
