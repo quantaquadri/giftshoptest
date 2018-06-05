@@ -230,17 +230,15 @@ img {
   height: 50px;
   color: #ffffff;
   border: none;
-  border-radius: 0;
+  border-radius: 5px;
   padding: 0 40px;
   text-transform: uppercase;
   font-size: 12px;
   line-height: 50px;
-  background-color: #0315ff;
+  background-color: #f9508c;
   letter-spacing: 1.5px;
-  font-weight: 600; }
-  .essence-btn:hover, .essence-btn:focus {
-    color: #ffffff;
-    background-color: #dc0345; }
+  font-weight: 600;
+}
 
 /* :: 4.0 Header Area CSS */
 .header_area {
@@ -444,8 +442,51 @@ img {
       .welcome_area .hero-content h2 {
         font-size: 30px; } }
 
+.overlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.welcome_area .overlay-bg {
+    opacity: .6;
+    background-color: #000;
+}
+
+.welcome_area .hero-content h6 {
+    font-size: 40px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.welcome_area .hero-content h2 {
+    font-size: 40px;
+    color:white;
+    margin-bottom: 20px;
+}
 
 /* :: 8.0 Popular Products Area CSS */
+
+.bg-img {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.welcome_area .overlay-bg {
+  opacity: .6;
+  background-color: #000;
+}
 .single-product-wrapper {
   position: relative;
   z-index: 1;
@@ -674,6 +715,52 @@ img {
     color: #9f9f9f; }
 
 
+/* footer */
+.footer_area {
+  position: relative;
+  z-index: 1;
+  background-color: #252525;
+  padding: 70px 0 60px;
+}
+
+/* footer */
+.footer_area {
+  position: relative;
+  z-index: 1;
+  background-color: #252525;
+  padding: 70px 0 60px;
+}
+
+.footer_area .single_widget_area .footer_widget_menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.footer_area .single_widget_area .footer_widget_menu li {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  width: 50%;
+}
+
+.footer_area .single_widget_area .footer_widget_menu li a {
+  display: block;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.6);
+  display: block;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.footer_area .single_widget_area .footer_social_area a {
+  color: #ffffff;
+  display: inline-block;
+  padding: 0 10px;
+  font-size: 16px;
+}
 /* ##### The End ##### */
 
 
