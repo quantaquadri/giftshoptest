@@ -27,8 +27,6 @@
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
   --font-family: 'Poppins', sans-serif;
-  /* --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
-  /* --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; */
 }
 
 *,
@@ -59,7 +57,6 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
-  /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -9226,7 +9223,7 @@ body {
 .ww-rsvp-detail .overlay-bg {
   opacity: .6;
   background-color: #000;
-  height: 111vh;
+  height: 95.5vh;
   /* min-height: 500px; */
 }
 
@@ -9309,7 +9306,7 @@ body {
 }
 
 .ww-section {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 
 .btn-primary {
