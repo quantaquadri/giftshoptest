@@ -158,14 +158,14 @@ sup {
 }
 
 a {
-  color: #f58a77;
+  color: #f9508c;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 
 a:hover {
-  color: #f04d30;
+  color: #f9508c;
   text-decoration: underline;
 }
 
@@ -9306,7 +9306,7 @@ body {
 }
 
 .ww-section {
-  padding: 50px 0;
+  padding: 60px 0;
 }
 
 .btn-primary {
