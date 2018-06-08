@@ -158,14 +158,14 @@ sup {
 }
 
 a {
-  color: #f9508c;
+  color: #ef806d;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 
 a:hover {
-  color: #f9508c;
+  color: #ef806d;
   text-decoration: underline;
 }
 
@@ -2510,38 +2510,38 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #212529;
-  background-color: #f9508c;
+  background-color: #ef806d;
   border-color: none;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #f9508c;
+  background-color: #ef806d;
   border-color: none;
 }
 
 .btn-primary:focus, .btn-primary.focus {
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(249, 80, 140);
-          box-shadow: 0 0 0 0.2rem rgba(249, 80, 140);
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(239, 128, 109);
+          box-shadow: 0 0 0 0.2rem rgba(239, 128, 109);
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
   color: #212529;
-  background-color: #f9508c;
-  border-color: #f9508c;
+  background-color: #ef806d;
+  border-color: #ef806d;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #f9508c;
-  border-color: #f9508c;
+  background-color: #ef806d;
+  border-color: #ef806d;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
 .show > .btn-primary.dropdown-toggle:focus {
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(245, 80, 140);
-          box-shadow: 0 0 0 0.2rem rgba(249, 80, 140);
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(239, 128, 109);
+          box-shadow: 0 0 0 0.2rem rgba(239, 128, 109);
 }
 
 .btn-secondary {
@@ -3086,7 +3086,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #f9508c;
+  color: #ef806d;
   background-color: transparent;
 }
 
@@ -9136,7 +9136,7 @@ body {
 
 .div .overlay-bg {
   opacity: .4;
-  background-color: #f9508c;
+  background-color: #ef806d;
   height: 100vh;
   /* min-height: 660px; */
 }
@@ -9277,7 +9277,7 @@ body {
 }
 
 .ww-rsvp-detail .ww-rsvp-form .btn-submit {
-  background-color: rgba(249, 80, 140, 0.9);
+  background-color: rgba(239, 128, 109, 0.9);
   padding: 0.45rem 1.5rem;
   border: 0;
 }
