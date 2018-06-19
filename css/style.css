@@ -6433,7 +6433,7 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-  background: url("../img/lan-img/home.png") no-repeat center center;
+  background: url("../img/lan-img/home.jpg") no-repeat center center;
   background-size: cover;
   background-position: 70%;
   height: 100vh;
@@ -6618,7 +6618,7 @@ body {
 
 /* RSVP Style */
 .ww-rsvp-detail {
-  background: url("../img/lan-img/rsvp-img.jpg") no-repeat center center;
+  background: url("../img/lan-img/rsvp.jpg") no-repeat center center;
   background-size: cover;
   min-height: 500px;
   position: relative;
