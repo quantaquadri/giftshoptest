@@ -6432,13 +6432,13 @@ body {
 }
 
 /* Home Page Style */
-.ww-home-page {
+/* .ww-home-page {
   background: url("https://res.cloudinary.com/dzomirrk1/image/upload/v1529499223/FolaShay/webimages/home.jpg") no-repeat center center;
   background-size: cover;
   background-position: 70%;
   height: 100vh;
   min-height: 480px;
-}
+} */
 
 .ww-home-page .ww-wedding-announcement {
   width: 100%;
@@ -6617,12 +6617,12 @@ body {
 }
 
 /* RSVP Style */
-.ww-rsvp-detail {
+/* .ww-rsvp-detail {
   background: url("https://res.cloudinary.com/dzomirrk1/image/upload/v1529499228/FolaShay/webimages/rsvp.jpg") no-repeat center center;
   background-size: cover;
   min-height: 500px;
   position: relative;
-}
+} */
 
 .ww-rsvp-detail .overlay-bg {
   opacity: .6;
